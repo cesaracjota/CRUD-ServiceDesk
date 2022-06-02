@@ -1,0 +1,29 @@
+export const CREATE_PERSONA = "CREATE_PERSONA";
+export const LIST_PERSONAS = "LIST_PERSONAS";
+export const UPDATE_PERSONA = "UPDATE_PERSONA";
+export const DELETE_PERSONA = "DELETE_PERSONA";
+
+export const CREATE_PERFIL = "CREATE_PERFIL";
+export const LIST_PERFIL = "LIST_PERFIL";
+export const UPDATE_PERFIL= "UPDATE_PERFIL";
+export const DELETE_PERFIL= "DELETE_PERFIL";
+
+export const CREATE_CARGO = "CREATE_CARGO";
+export const LIST_CARGOS = "LIST_CARGOS";
+export const UPDATE_CARGO= "UPDATE_CARGO";
+export const DELETE_CARGO= "DELETE_CARGO";
+
+export const CREATE_SEDE = "CREATE_SEDE";
+export const LIST_SEDES = "LIST_SEDES";
+export const UPDATE_SEDE= "UPDATE_SEDE";
+export const DELETE_SEDE= "DELETE_SEDE";
+
+export const CREATE_ORGANO = "CREATE_ORGANO";
+export const LIST_ORGANOS = "LIST_ORGANOS";
+export const UPDATE_ORGANO= "UPDATE_ORGANO";
+export const DELETE_ORGANO= "DELETE_ORGANO";
+
+export const CREATE_OFICINA = "CREATE_OFICINA";
+export const LIST_OFICINAS = "LIST_OFICINAS";
+export const UPDATE_OFICINA= "UPDATE_OFICINA";
+export const DELETE_OFICINA= "DELETE_OFICINA";
